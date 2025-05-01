@@ -1,0 +1,42 @@
+MenuName: "测试菜单"
+Title: "§7§l测试菜单"
+Layout:
+  - "#########"
+  - "#A#B#C#D#"
+  - "#########"
+
+Buttons:
+  '#':
+    name: "§f玻璃板"
+    data: 11
+    material: 'stained_glass_pane'
+    lore:
+      - ""
+  'A':
+    name: "§fA类型按钮"
+    material: 'stained_glass_pane'
+    data: 12
+    type: "TypeA"
+    lore:
+      - ""
+  'B':
+    name: "§fB类型按钮"
+    material: 'stained_glass_pane'
+    data: 13
+    type: "TypeB"
+    lore:
+      - ""
+  'C':
+    name: "§fC类型按钮"
+    material: 'stained_glass_pane'
+    data: 14
+    type: "TypeC"
+    lore:
+      - ""
+  'D':
+    name: "§fD类型按钮"
+    material: 'stained_glass_pane'
+    data: 15
+    type: "TypeD"
+    lore:
+      - ""

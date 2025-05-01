@@ -1,0 +1,6 @@
+name: NuStarGUI-demo
+version: '${project.version}'
+main: top.nustar.nustarguidemo.NuStarGUI_demo
+commands:
+  nustarguidemo:
+    aliases: [ndg]
